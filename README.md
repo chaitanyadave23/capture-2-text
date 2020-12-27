@@ -1,4 +1,4 @@
-# capture-2-text
+# Capture-2-Text
 Machine Learning project to recognize text from a distorted image using Deep Convolutional Neural Network.
 
 Instructions to run the project 
